@@ -248,7 +248,7 @@
     "Budget (float)": 600000.0,
     "Box office (float)": 960000.0,
     "Release date (datetime)": "June 27, 1941",
-    "imdb": "6.9",
+    "imdb": "6.8",
     "metascore": "N/A",
     "rotten_tomatoes": null
   },
@@ -1628,7 +1628,7 @@
     "Budget (float)": null,
     "Box office (float)": 2750000.0,
     "Release date (datetime)": "December 20, 1956",
-    "imdb": "5.8",
+    "imdb": "5.9",
     "metascore": "N/A",
     "rotten_tomatoes": null
   },
@@ -2112,9 +2112,9 @@
     "Budget (float)": null,
     "Box office (float)": null,
     "Release date (datetime)": "February 24, 1960",
-    "imdb": "7.6",
-    "metascore": "N/A",
-    "rotten_tomatoes": null
+    "imdb": "6.4",
+    "metascore": "49",
+    "rotten_tomatoes": "44%"
   },
   {
     "title": "Pollyanna",
@@ -2535,9 +2535,9 @@
     "Budget (float)": 3000000.0,
     "Box office (float)": 4600000.0,
     "Release date (datetime)": "December 14, 1961",
-    "imdb": "7.2",
-    "metascore": "N/A",
-    "rotten_tomatoes": "100%"
+    "imdb": "6.2",
+    "metascore": "55",
+    "rotten_tomatoes": "36%"
   },
   {
     "title": "Moon Pilot",
@@ -3334,7 +3334,7 @@
     "Budget (float)": null,
     "Box office (float)": 4000000.0,
     "Release date (datetime)": "August 18, 1965",
-    "imdb": "6.1",
+    "imdb": "6.0",
     "metascore": "N/A",
     "rotten_tomatoes": null
   },
@@ -5784,7 +5784,7 @@
     "Budget (float)": null,
     "Box office (float)": null,
     "Release date (datetime)": "February 09, 1979",
-    "imdb": "6.7",
+    "imdb": "6.8",
     "metascore": "N/A",
     "rotten_tomatoes": "78%"
   },
@@ -7010,8 +7010,8 @@
     "Budget (float)": 8700000.0,
     "Box office (float)": 13687027.0,
     "Release date (datetime)": "March 24, 1988",
-    "imdb": "6.6",
-    "metascore": "N/A",
+    "imdb": null,
+    "metascore": null,
     "rotten_tomatoes": null
   },
   {
@@ -12134,7 +12134,7 @@
     "Budget (float)": 17000000.0,
     "Box office (float)": 55500000.0,
     "Release date (datetime)": "May 02, 2003",
-    "imdb": "5.5",
+    "imdb": "5.6",
     "metascore": "56",
     "rotten_tomatoes": "40%"
   },
@@ -15762,7 +15762,7 @@
     "Budget (float)": null,
     "Box office (float)": 23100000.0,
     "Release date (datetime)": "February 27, 2009",
-    "imdb": "1.6",
+    "imdb": "1.7",
     "metascore": "45",
     "rotten_tomatoes": "23%"
   },
@@ -16543,9 +16543,9 @@
     "Budget (float)": 80000000.0,
     "Box office (float)": 82700000.0,
     "Release date (datetime)": "October 17, 2009",
-    "imdb": "7.5",
-    "metascore": "N/A",
-    "rotten_tomatoes": null
+    "imdb": "7.8",
+    "metascore": "75",
+    "rotten_tomatoes": "80%"
   },
   {
     "title": "Prince of Persia: The Sands of Time",
@@ -18252,8 +18252,8 @@
     "Budget (float)": null,
     "Box office (float)": null,
     "Release date (datetime)": "March 16, 2011",
-    "imdb": null,
-    "metascore": null,
+    "imdb": "7.4",
+    "metascore": "N/A",
     "rotten_tomatoes": null
   },
   {
@@ -22165,8 +22165,8 @@
     "Budget (float)": null,
     "Box office (float)": null,
     "Release date (datetime)": "January 01, 2021",
-    "imdb": null,
-    "metascore": null,
+    "imdb": "5.9",
+    "metascore": "N/A",
     "rotten_tomatoes": null
   },
   {
@@ -23079,9 +23079,9 @@
     "Budget (float)": null,
     "Box office (float)": null,
     "Release date (datetime)": null,
-    "imdb": "4.9",
+    "imdb": "6.4",
     "metascore": "N/A",
-    "rotten_tomatoes": "33%"
+    "rotten_tomatoes": null
   },
   {
     "title": "Three Men and a Baby",
@@ -23125,9 +23125,9 @@
     "Budget (float)": 11000000.0,
     "Box office (float)": 240000000.0,
     "Release date (datetime)": "November 25, 1987",
-    "imdb": "N/A",
-    "metascore": "N/A",
-    "rotten_tomatoes": null
+    "imdb": "6.1",
+    "metascore": "61",
+    "rotten_tomatoes": "76%"
   },
   {
     "title": "Lilo & Stitch",
