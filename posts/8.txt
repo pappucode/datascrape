@@ -1,0 +1,3 @@
+Python developer
+TandA HR Solutions
+Python, Django, Flask, unit testing
