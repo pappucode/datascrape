@@ -1,3 +1,3 @@
 Python Developer
-crescendo global
-Python, BI development, business intelligence, Tableau
+Root Info Solutions
+python 2, python 3, django, javascript, html, postgresql  /  mysql, rest api, celery rabbitmq, redis., css, oop

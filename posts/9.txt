@@ -1,0 +1,3 @@
+Python Developer
+CONNECTING 2 WORK
+python, storage, django, testing tools, debugging
